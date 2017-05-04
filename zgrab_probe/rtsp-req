@@ -1,0 +1,3 @@
+OPTIONS rtsp://%s RTSP/1.0
+CSeq: 2
+User-Agent: LibVLC/2.2.1 (LIVE555 Streaming Media v2014.07.25)

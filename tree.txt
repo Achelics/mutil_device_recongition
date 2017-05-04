@@ -1,0 +1,79 @@
+Folder PATH listing
+Volume serial number is 00000027 16E4:8011
+D:.
+©¦   tree.txt
+©¦   
+©À©¤©¤©¤.idea
+©¦       misc.xml
+©¦       modules.xml
+©¦       mutil_device_recongition.iml
+©¦       workspace.xml
+©¦       
+©À©¤©¤©¤brand_filter
+©¦       stop_word.txt
+©¦       __init__.py
+©¦       
+©À©¤©¤©¤count_alive_ip
+©¦       count_ip.py
+©¦       count_ip.pyc
+©¦       get_alive_ip.py
+©¦       get_alive_ip.pyc
+©¦       get_ip_distribution.py
+©¦       get_ip_distribution.pyc
+©¦       run_count_ip.py
+©¦       __init__.py
+©¦       
+©À©¤©¤©¤data_pre_process
+©¦       get_100_data.py
+©¦       get_401_string.py
+©¦       get_401_string.pyc
+©¦       split_banner_man.py
+©¦       split_banner_man.pyc
+©¦       __init__.py
+©¦       
+©À©¤©¤©¤data_result
+©¦       brand_401_analysis.py
+©¦       get_brand_only.py
+©¦       get_rtsp_url.py
+©¦       __init__.py
+©¦       
+©À©¤©¤©¤data_string_extract
+©¦       get_401_identify.py
+©¦       include_string_brand.json
+©¦       match_brand.py
+©¦       match_v1.py
+©¦       model.json
+©¦       parse_short_banner.py
+©¦       parse_short_banner.pyc
+©¦       split_word_run.py
+©¦       split_word_run.pyc
+©¦       string_extractor.py
+©¦       __init__.py
+©¦       
+©À©¤©¤©¤data_visual
+©¦       data_visual.py
+©¦       __init__.py
+©¦       
+©À©¤©¤©¤get_raw_result
+©¦       get_validity_json.py
+©¦       get_validity_json.pyc
+©¦       main_run.py
+©¦       main_run.pyc
+©¦       __init__.py
+©¦       
+©À©¤©¤©¤parse_html_text
+©¦       parse_html.py
+©¦       test.html
+©¦       __init__.py
+©¦       
+©À©¤©¤©¤random_ip_get
+©¦       get_ip.py
+©¦       global_ip.txt
+©¦       __init__.py
+©¦       
+©¸©¤©¤©¤zgrab_probe
+        ipList.txt
+        rtsp-req
+        zgrab_probe.py
+        __init__.py
+        
