@@ -62,7 +62,8 @@ def marked_ip_file(ip_path, ip_result, ip_marked):
     :return:
     """
     marked_file = open(ip_marked, 'a')
-    list_name = ["zmap_ftp_ip.txt", "zmap_ssh_ip.txt", "zmap_telnet_ip.txt", "zmap_http_ip.txt", "zmap_rtsp_ip.txt"]
+    list_name = ["ip_21.txt", "ip_22.txt", "ip_23.txt", "ip_80.txt", "ip_554.txt"]
+
     with open(ip_result, 'r') as f:
         for line in f:
             ip = line.strip('\r\n')
@@ -83,8 +84,8 @@ def marked_ip_file(ip_path, ip_result, ip_marked):
     # print "ip文件标记结束"
 
 if __name__ == '__main__':
-    ip_path = "F:\\mutil_result\\five_protocol_50\\ip_dir"
-    tmp_file_name = "F:\\mutil_result\\five_protocol_50\\ip_tmp.txt"
+    ip_path = r'F:\mutil_result\five_protocol_50'
+    # tmp_file_name = "F:\\mutil_result\\five_protocol_50\\ip_tmp.txt"
     ip_result_name = "F:\\mutil_result\\five_protocol_50\\ip_result.txt"
     ip_marked_name = "F:\\mutil_result\\five_protocol_50\\ip_marked_result.txt"
 

@@ -10,6 +10,7 @@ reload(_sys)
 _sys.setdefaultencoding("utf-8")
 import multiprocessing
 
+
 class ParseBannerProcess(multiprocessing.Process):
     """
         ftp协议的预处理

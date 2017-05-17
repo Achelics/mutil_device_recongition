@@ -163,6 +163,29 @@ def split_http_web(status_code, raw_file_path="", raw_file_name="", result_path=
     status_file.close()
 
 
+def http_validity_json(raw_data):
+    """
+        根据原始的banner信息，返回一个字典类型
+    :param raw_data: 原始的banner的json信息
+    :return: result： 字典类型
+                "banner_string": banner字符串信息
+                "banner_ok": 返回为ok的banner的json信息
+                "banner_error": 返回为error的json信息
+    """
+    result = dict()
+    result["banner_flag"] = False
+    result["banner_error"] = raw_data
+    if "data" in raw_data:
+        if "http" in raw_data["data"]:
+            http = raw_data["data"]["http"]
+            if http:
+                result["banner_string"] = http
+                result["banner_ok"] = raw_data
+                result["banner_flag"] = True
+    return result
+
+
+
 if __name__ == '__main__':
     raw_file_path = "F:\\mutil_result\\five_protocol_50"
     result_file_path = "F:\\mutil_result\\five_protocol_50\\data_process"

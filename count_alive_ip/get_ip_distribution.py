@@ -9,6 +9,7 @@ import os as _os
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+
 class CountProtocolIP(multiprocessing.Process):
 
     def __init__(self, marked_file_name, protocol_marked_file_name, marked_num):
@@ -71,7 +72,7 @@ class CountProtocolIP(multiprocessing.Process):
 
 if __name__ == '__main__':
     ip_path = "F:\\mutil_result\\five_protocol_50\\ip_dir\\"
-    marked_file = "F:\\mutil_result\\five_protocol_50\\ip_marked_result.txt"
+    marked_file = "F:\\mutil_result\\five_protocol_50\\ip_maeked_compare.txt"
 
     protocol_list = ["zmap_ftp_ip_marked.txt", "zmap_ssh_ip_marked.txt", "zmap_telnet_ip_marked.txt", "zmap_http_ip_marked.txt", "zmap_rtsp_ip_marked.txt"]
     for i in range(len(protocol_list)):
