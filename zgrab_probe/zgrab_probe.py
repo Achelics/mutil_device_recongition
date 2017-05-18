@@ -25,7 +25,7 @@ def zgrab_http(ip_list_file="", port="80", result_banner="banner80.json", **kwag
         bandwith = "2M"
     cmd = ("zmap -p " + port + " -B " + bandwith + " -w " + ip_list_file
            + " --output-fields=* | ztee " + zmap_file_name +
-           " | zgrab --port=" + port + " --http=/ --http-max-redirects=2 --http-user-agent='Mozilla/5.0 (Windows NT 10.0; WOW64)' --output-file=" + result_banner)
+           " | ./zgrab --port=" + port + " --http=/ --http-max-redirects=2 --http-user-agent='Mozilla/5.0 (Windows NT 10.0; WOW64)' --output-file=" + result_banner)
     _os.system(cmd)
 
 
@@ -49,7 +49,7 @@ def zgrab_protocol(ip_list_file="", port="", result_banner="banner.json", protoc
         bandwith = "2M"
     cmd = ("zmap -p " + port + " -B " + bandwith + " -w " + ip_list_file
            + " --output-fields=* | ztee " + zmap_file_name +
-           " | zgrab --port=" + port + " --" + protocol + " --output-file=" + result_banner)
+           " | ./zgrab --port=" + port + " --" + protocol + " --output-file=" + result_banner)
     _os.system(cmd)
 
 
@@ -76,7 +76,7 @@ def zgrab_proper_protocol(ip_list_file="", port="", result_banner="banner.json",
 
     cmd = ("zmap -p " + port + " -B " + bandwith + " -w " + ip_list_file
            + " --output-fields=* | ztee " + zmap_file_name +
-           " | zgrab --port=" + port + " --data=" + data_file + " --output-file=" + result_banner)
+           " | ./zgrab --port=" + port + " --data=" + data_file + " --output-file=" + result_banner)
     _os.system(cmd)
 
 
@@ -87,6 +87,7 @@ if __name__ == '__main__':
     ftp_kw = dict()
     ssh_kw = dict()
     telnet_kw = dict()
+    rtsp_kw = dict()
 
     http_kw["ip_list_file"] = ip_list_file
     http_kw["port"] = "80"
@@ -111,10 +112,17 @@ if __name__ == '__main__':
     telnet_kw["protocol"] = "telnet"
     telnet_kw["zmap_file_name"] = "zmap_telnet.csv"
 
+    rtsp_kw["ip_list_file"] = ip_list_file
+    rtsp_kw["port"] = "554"
+    rtsp_kw["result_banner"] = "banner554.json"
+    rtsp_kw["data_file"] = "rtsp-req"
+    rtsp_kw["zmap_file_name"] = "zmap_rtsp.csv"
+
     p1 = multiprocessing.Process(target=zgrab_http, kwargs=http_kw)
     p2 = multiprocessing.Process(target=zgrab_protocol, kwargs=ftp_kw)
     p3 = multiprocessing.Process(target=zgrab_protocol, kwargs=ssh_kw)
     p4 = multiprocessing.Process(target=zgrab_protocol, kwargs=telnet_kw)
+    p5 = multiprocessing.Process(target=zgrab_proper_protocol, kwargs=rtsp_kw)
     p1.start()
     p2.start()
     p3.start()
