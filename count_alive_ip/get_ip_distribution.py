@@ -71,8 +71,8 @@ class CountProtocolIP(multiprocessing.Process):
         self.get_num_distribute()
 
 if __name__ == '__main__':
-    ip_path = "F:\\mutil_result\\five_protocol_50\\ip_dir\\"
-    marked_file = "F:\\mutil_result\\five_protocol_50\\ip_maeked_compare.txt"
+    ip_path = "F:\\mutil_result\\five_protocol\\ip_dir\\"
+    marked_file = "F:\\mutil_result\\five_protocol\\ip_maeked_compare.txt"
 
     protocol_list = ["zmap_ftp_ip_marked.txt", "zmap_ssh_ip_marked.txt", "zmap_telnet_ip_marked.txt", "zmap_http_ip_marked.txt", "zmap_rtsp_ip_marked.txt"]
     for i in range(len(protocol_list)):

@@ -41,11 +41,11 @@ def get_ip_json(banner_file_name, result_file_name, ip_list):
 
 
 if __name__ == '__main__':
-    ip_raw_file_name = r'F:\mutil_result\five_protocol_50\ip_maeked_compare.txt'
-    ip_all_result_name = r'F:\mutil_result\five_protocol_50\five_protocol_all\ip_list.txt'
+    ip_raw_file_name = r'F:\mutil_result\five_protocol\ip_maeked_compare.txt'
+    ip_all_result_name = r'F:\mutil_result\five_protocol\five_protocol_all\ip_list.txt'
     get_all_ip(ip_raw_file_name, ip_all_result_name, 5)
-    raw_dir = r'F:\mutil_result\five_protocol_50'
-    result_dir = r'F:\mutil_result\five_protocol_50\five_protocol_all'
+    raw_dir = r'F:\mutil_result\five_protocol'
+    result_dir = r'F:\mutil_result\five_protocol\five_protocol_all'
     banner_name = ['banner21.json', 'banner22.json', 'banner23.json', 'banner80.json', 'banner554.json']
     for banner in banner_name:
         banner_file_name = os.path.join(raw_dir, banner)

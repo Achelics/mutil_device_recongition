@@ -10,43 +10,43 @@ if __name__ == '__main__':
     http_set = set()
     rtsp_set = set()
 
-    with open(r'F:\mutil_result\five_protocol_50\ip_21.txt', 'r') as f:
+    with open(r'F:\mutil_result\five_protocol\ip_21.txt', 'r') as f:
         for line in f:
             ip = line.strip('\r\n')
             ftp_set.add(ip)
     f.close()
     print 'ftp加载完成'
 
-    with open(r'F:\mutil_result\five_protocol_50\ip_22.txt', 'r') as f:
+    with open(r'F:\mutil_result\five_protocol\ip_22.txt', 'r') as f:
         for line in f:
             ip = line.strip('\r\n')
             ssh_set.add(ip)
     f.close()
     print 'ssh加载完成'
 
-    with open(r'F:\mutil_result\five_protocol_50\ip_23.txt', 'r') as f:
+    with open(r'F:\mutil_result\five_protocol\ip_23.txt', 'r') as f:
         for line in f:
             ip = line.strip('\r\n')
             telnet_set.add(ip)
     f.close()
     print 'telnet加载完成'
 
-    with open(r'F:\mutil_result\five_protocol_50\ip_80.txt', 'r') as f:
+    with open(r'F:\mutil_result\five_protocol\ip_80.txt', 'r') as f:
         for line in f:
             ip = line.strip('\r\n')
             http_set.add(ip)
     f.close()
     print 'http加载完成'
 
-    with open(r'F:\mutil_result\five_protocol_50\ip_554.txt', 'r') as f:
+    with open(r'F:\mutil_result\five_protocol\ip_554.txt', 'r') as f:
         for line in f:
             ip = line.strip('\r\n')
             rtsp_set.add(ip)
     f.close()
     print 'rtsp加载完成'
 
-    marked_file = open(r'F:\mutil_result\five_protocol_50\ip_maeked_compare.txt', 'a')
-    with open(r'F:\mutil_result\five_protocol_50\ip_result.txt', 'r') as f:
+    marked_file = open(r'F:\mutil_result\five_protocol\ip_maeked_compare.txt', 'a')
+    with open(r'F:\mutil_result\five_protocol\ip_result.txt', 'r') as f:
         for line in f:
             ip = line.strip('\r\n')
             result_marked = ip + ','

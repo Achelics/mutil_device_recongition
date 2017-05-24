@@ -55,10 +55,14 @@ def get_only_banner(path, filename):
 
 
 if __name__ == '__main__':
-    path = r'F:\mutil_result\five_protocol_50\five_protocol_all'
+    path = r'F:\mutil_result\five_protocol\five_protocol_all'
     banner_name = ['banner21.json', 'banner22.json', 'banner23.json', 'banner80.json', 'banner554.json']
     protocol_json_list = [ftp_validity_json, ssh_validity_json, telnet_validity_json, http_validity_json, rtsp_validity_json]
     clear_name = ['banner21_clear.json', 'banner22_clear.json', 'banner23_clear.json', 'banner80_clear.json', 'banner554_clear.json']
+    # for i in range(0, len(clear_name)):
+    #     process = multiprocessing.Process(target=get_ip_banner, args=(path, banner_name[i], protocol_json_list[i]))
+    #     process.start()
+
     for i in range(0, len(clear_name)):
         process = multiprocessing.Process(target=get_only_banner, args=(path, clear_name[i]))
         process.start()
