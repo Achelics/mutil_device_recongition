@@ -1,0 +1,1047 @@
+{"Brand": ["360 Vision Technology"], "Model": ["External Vision iDome"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Arevita"], "Model": ["IPV-65"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Astak"], "Model": ["CM-MOLE"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Asante"], "Model": ["Voyager II"], "RTSP_URL": ["rtsp://ip-addr/cam1/mpeg4"]}
+{"Brand": ["Arlotto"], "Model": ["AR1500H"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Asoni"], "Model": ["CAM6832EIR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Asoni"], "Model": ["CAM6833EIR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Asoni"], "Model": ["CAM6834EIR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Asoni"], "Model": ["CAM6837EIR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Asoni"], "Model": ["CAM742FIR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Apexis"], "Model": ["APM-H804-WS"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Amovision"], "Model": ["AM-C734V2"], "RTSP_URL": ["rtsp://ip-addr/ch0_0.h264"]}
+{"Brand": ["APPRO"], "Model": ["LC-7231"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Arecont Vision"], "Model": ["AV10115DN"], "RTSP_URL": ["rtsp://ip-addr/h264.sdp"]}
+{"Brand": ["Arecont Vision"], "Model": ["AV1300"], "RTSP_URL": ["rtsp://ip-addr/h264.sdp"]}
+{"Brand": ["Arecont Vision"], "Model": ["AV2110DN"], "RTSP_URL": ["rtsp://ip-addr/h264.sdp"]}
+{"Brand": ["American Dynamics"], "Model": ["Illustra 200 Indoor"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Zmodo"], "Model": ["ZP-IBI13-W"], "RTSP_URL": ["rtsp://ip-addr:10544/tcp/av0_0"]}
+{"Brand": ["Zmodo"], "Model": ["CS-S1T-S"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["American Dynamics"], "Model": ["Illustra Flex Mini-Dome 800 Indoor"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["American Dynamics"], "Model": ["Illustra Flex Mini-Dome 800 Outdoor"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Zmodo"], "Model": ["ZH-IXB05-WC"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Arecont Vision"], "Model": ["AV5100"], "RTSP_URL": ["rtsp://ip-addr/h264.sdp"]}
+{"Brand": ["Zmodo"], "Model": ["ZM-SH721"], "RTSP_URL": ["rtsp://ip-addr:10554/tcp/av0_0"]}
+{"Brand": ["Zmodo"], "Model": ["ZP-IBH13"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Zmodo"], "Model": ["ZP-IBH13-P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Zmodo"], "Model": ["ZP-IBH13-W"], "RTSP_URL": ["rtsp://ip-addr:10544/tcp/av0_0"]}
+{"Brand": ["Zmodo"], "Model": ["ZP-IBH15-S"], "RTSP_URL": ["rtsp://ip-addr:10554/"]}
+{"Brand": ["ZKTeco"], "Model": ["ZKMD470"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Arecont Vision"], "Model": ["AV8365DN"], "RTSP_URL": ["rtsp://ip-addr/h264.sdp"]}
+{"Brand": ["Arecont Vision"], "Model": ["D4F-AV5115DN"], "RTSP_URL": ["rtsp://ip-addr/h264.sdp"]}
+{"Brand": ["ZNV"], "Model": ["ZNNC MP-F000N-35"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Yudor"], "Model": ["YUC-7A26A"], "RTSP_URL": ["rtsp://ip-addr/v2"]}
+{"Brand": ["Yudor"], "Model": ["YUC-7A88"], "RTSP_URL": ["rtsp://ip-addr/v2"]}
+{"Brand": ["YOKO"], "Model": ["RYK-IP5831"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Yelaw"], "Model": ["NC500"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ZAVIO"], "Model": ["B5010"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ZAVIO"], "Model": ["B7210"], "RTSP_URL": ["rtsp://ip-addr/video.pro1"]}
+{"Brand": ["ZAVIO"], "Model": ["F3110"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ZAVIO"], "Model": ["F3115"], "RTSP_URL": ["rtsp://ip-addr/video.pro1"]}
+{"Brand": ["ZAVIO"], "Model": ["P6210"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Xvision"], "Model": ["X104P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Xvision"], "Model": ["X2C4000"], "RTSP_URL": ["rtsp://ip-addr:554/ch00/0"]}
+{"Brand": ["Xvision"], "Model": ["XC1080BAP"], "RTSP_URL": ["rtsp://ip-addr:554/ch01.264?"]}
+{"Brand": ["Xvision"], "Model": ["XC1080DAP"], "RTSP_URL": ["rtsp://ip-addr:554/ch01.264?"]}
+{"Brand": ["Xvision"], "Model": ["XC1080DP"], "RTSP_URL": ["rtsp://ip-addr:554/ch01.264?"]}
+{"Brand": ["Xvision"], "Model": ["XC1080S"], "RTSP_URL": ["rtsp://ip-addr:554/ch01.264?"]}
+{"Brand": ["Xvision"], "Model": ["XC1080S20"], "RTSP_URL": ["rtsp://ip-addr:554/ch01.264?"]}
+{"Brand": ["Xvision"], "Model": ["XC1080S20IRN"], "RTSP_URL": ["rtsp://ip-addr:554/ch01.264?"]}
+{"Brand": ["Xvision"], "Model": ["XC1080TP"], "RTSP_URL": ["rtsp://ip-addr:554/ch01.264?"]}
+{"Brand": ["Xvision"], "Model": ["XC1080V"], "RTSP_URL": ["rtsp://ip-addr:554/ch01.264?"]}
+{"Brand": ["Xvision"], "Model": ["XC1080VP"], "RTSP_URL": ["rtsp://ip-addr:554/ch01.264?"]}
+{"Brand": ["Wision"], "Model": ["WS-A9R31"], "RTSP_URL": ["rtsp://ip-addr/h264"]}
+{"Brand": ["Wision"], "Model": ["WS-HW700C2"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wodsee"], "Model": ["WIP100-JT40"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wetrans TEK"], "Model": ["TR-2MIPR131"], "RTSP_URL": ["rtsp://ip-addr/mpeg4"]}
+{"Brand": ["Weldex"], "Model": ["WDND-35071V"], "RTSP_URL": ["rtsp://ip-addr:7070/h264"]}
+{"Brand": ["Wodsee"], "Model": ["WIP200-PN20"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["WEISKY"], "Model": ["IPC-123"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["WEICHU"], "Model": ["PTD-5100TM"], "RTSP_URL": ["rtsp://ip-addr:10554/"]}
+{"Brand": ["Wansview"], "Model": ["NCL616W"], "RTSP_URL": ["rtsp://ip-addr/11"]}
+{"Brand": ["Wansview"], "Model": ["NCM621W"], "RTSP_URL": ["rtsp://ip-addr/11"]}
+{"Brand": ["Wansview"], "Model": ["NCM625GA"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wansview"], "Model": ["NCM629W"], "RTSP_URL": ["rtsp://ip-addr/11"]}
+{"Brand": ["Wansview"], "Model": ["NCM630W"], "RTSP_URL": ["rtsp://ip-addr/11"]}
+{"Brand": ["Wansview"], "Model": ["NCM631W"], "RTSP_URL": ["rtsp://ip-addr/11"]}
+{"Brand": ["VTV"], "Model": ["VT-7004 IP 420"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VStarcam"], "Model": ["C37A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VStarcam"], "Model": ["C38A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VStarcam"], "Model": ["C7812IP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VStarcam"], "Model": ["C7816WIP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VStarcam"], "Model": ["C7824WIP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VStarcam"], "Model": ["C7837WIP"], "RTSP_URL": ["rtsp://ip-addr"]}
+{"Brand": ["VStarcam"], "Model": ["C7850WIP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wanscam"], "Model": ["HW0023"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wanscam"], "Model": ["JW0012"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wanscam"], "Model": ["HW0026"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wanscam"], "Model": ["HW0034"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wanscam"], "Model": ["HW0039"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Vitorcam"], "Model": ["CA-PH10WP, p2p"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wanscam"], "Model": ["JW0001"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wanscam"], "Model": ["JW0005"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Wanscam"], "Model": ["JW0009"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Vista CCTV"], "Model": ["VK2-1080BIR3V9F"], "RTSP_URL": ["rtsp://ip-addr/stream1"]}
+{"Brand": ["VISTA"], "Model": ["IP050BWM"], "RTSP_URL": ["rtsp://ip-addr/cam1/h264"]}
+{"Brand": ["VISIONxIP"], "Model": ["VxIP9553"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Visionite"], "Model": ["VCN-V500DC-IR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Videotec"], "Model": ["ULISSE MAXI NETCAM"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Videotec"], "Model": ["ULISSE NETCAM"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Vicon"], "Model": ["MP-980"], "RTSP_URL": ["rtsp://ip-addr/access_name_for_stream_1_to_5"]}
+{"Brand": ["VGSION"], "Model": ["VG-2MP-CIR40M-W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Videoline"], "Model": ["Smart-Vu Mini Dome 2IP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VENETIAN"], "Model": ["IP-7515"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Uniden"], "Model": ["APPCAM 25HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Unreal Streaming"], "Model": ["UM500"], "RTSP_URL": ["rtsp://ip-addr/stream1"]}
+{"Brand": ["Verint"], "Model": ["S2500e"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["UDP Technology"], "Model": ["IPC3500"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["UDP Technology"], "Model": ["IPE6700"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["UDP Technology"], "Model": ["IPN6702HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TT INT'L"], "Model": ["TT-ST2M8HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Ubiquiti Networks"], "Model": ["AirCam"], "RTSP_URL": ["rtsp://ip-addr/live/ch00_0"]}
+{"Brand": ["VIVOTEK"], "Model": ["AB5156"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["AB5353H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["AF5127V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["AF5147V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["BB5116"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["BB5315"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["BD5115"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["BD5336"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["BS5332E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["CC8130"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8131V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8134"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8134-SS"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8134V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8135H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8136"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8137H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8137HV"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8151V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8152V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8154"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8154V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8155H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["TP-LINK"], "Model": ["TL-SC3130"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TP-LINK"], "Model": ["TL-SC3130G"], "RTSP_URL": ["rtsp://ip-addr/video.mp4"]}
+{"Brand": ["TP-LINK"], "Model": ["TL-SC3430"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TP-LINK"], "Model": ["TL-SC4171G"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8162"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8163"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8164"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8164V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8165H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["Truen"], "Model": ["TCAM-330"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Truen"], "Model": ["TCAM-5310"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Truen"], "Model": ["TCAM-7300"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8166"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8168"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["TVT"], "Model": ["TD-9312M"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TVT"], "Model": ["TD-9412M"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8171"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8335H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8355EHV"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8362"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8362E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8363"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8365EHV"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP100"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP100W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP110"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP200"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TVT"], "Model": ["TD-9511E"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP302PI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP310PI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP311PI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP320PI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8371EV"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8371V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FD8372"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["TVT"], "Model": ["TD-9514S"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP320PI2K"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP321PI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP322P"], "RTSP_URL": ["rtsp://ip-addr/mpeg4"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP342PI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP343PI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP450PI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP501W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Toshiba"], "Model": ["IK-WR12A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Topview Optronics"], "Model": ["A300DIZ-DN-HPD-09"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP512P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP562WI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP612P"], "RTSP_URL": ["rtsp://ip-addr/play1.sdp"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP612WN"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VIVOTEK"], "Model": ["FE8173"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FE8174"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["TrendNet"], "Model": ["TV-IP672WI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TOPICA"], "Model": ["TOP-656HPT"], "RTSP_URL": ["rtsp://ip-addr/h264/media.amp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FE8174V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FE8181"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["FE8181V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IB8156"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IB8168"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["TrendNet"], "Model": ["V-IP512WN"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VIVOTEK"], "Model": ["IB8354-C"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["Tiensun"], "Model": ["TSIG25"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP7131"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP7160"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP7160-SS"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP7161-SS"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP7361"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8130"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8130W"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8131"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["Tiandy"], "Model": ["TC-NC9100S3-3MP-IR30"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Tiandy"], "Model": ["TC-NC9400S3E-MP-E-IR20"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8131W"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8132"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8133"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8133W"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8151"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8151-SS"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8151P"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8152"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8155HP"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8161"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8161-SS"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8162"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8162P"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8162P-SS"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8165HP"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8172"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["Tenvis"], "Model": ["IPROBOT 3"], "RTSP_URL": ["rtsp://ip-addr/0/video1"]}
+{"Brand": ["Tenvis"], "Model": ["JPT3815W-HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Tenvis"], "Model": ["TH671"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Tenvis"], "Model": ["TH692"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8172P"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8173H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8331"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8332-C"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8332-SS"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8335H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8336W"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8337H-C"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8355EH"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8355H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8361"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8362"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8364-C"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8365EH"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8365H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8371"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["Telexper"], "Model": ["nCam-83113"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8371E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["IP8372"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["MD8531H"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["MD8562"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["Panoramic PTZ"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["PD8136"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["PZ81x1"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["PZ81x1W"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD8121-SS"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD8323E-SS"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD8333-E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD8362E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD8362E-SS"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD8363E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD8364E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD83x1E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD83x2E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD83x3E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD83x4E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SD83x6E"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SF8174"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["VIVOTEK"], "Model": ["SF8174V"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["SZSINOCAM"], "Model": ["SN-IPC-5033CSW"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Teki"], "Model": ["TK-8336"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Swann"], "Model": ["SW111-XIP"], "RTSP_URL": ["rtsp://ip-addr/mpeg4"]}
+{"Brand": ["TecVoz"], "Model": ["CMNC-130"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TecVoz"], "Model": ["CTNB-5361"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TecVoz"], "Model": ["CTNC-6351DM"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TANTOS"], "Model": ["TSi-B211"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["TANTOS"], "Model": ["TSi-P212V"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SURIP"], "Model": ["SI-E538"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SURIP"], "Model": ["SI-H639"], "RTSP_URL": ["rtsp://ip-addr/ch0_0.h264"]}
+{"Brand": ["Super Circuits"], "Model": ["BLK-IPD102"], "RTSP_URL": ["rtsp://ip-addr/ch0_unicast_firststream"]}
+{"Brand": ["SunEyes"], "Model": ["SP-FJ02W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SunEyes"], "Model": ["SP-P1802SWPTZ"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SunEyes"], "Model": ["SP-PM02H"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Surveon"], "Model": ["CAM1320"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Surveon"], "Model": ["CAM2301A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Surveon"], "Model": ["CAM3571"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sunell"], "Model": ["IPS54/60DR/Z28"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sunell"], "Model": ["SN-IPD54/40VDN-3MP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sunell"], "Model": ["SN-IPR54/40AKDN-5MP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["StoreNet"], "Model": ["SecureEye-1080p-IP"], "RTSP_URL": ["rtsp://ip-addr/stream1"]}
+{"Brand": ["StarVedia"], "Model": ["IC602"], "RTSP_URL": ["rtsp://ip-addr/CAM_ID.password.mp2"]}
+{"Brand": ["StarDot"], "Model": ["NetCamSCX"], "RTSP_URL": ["rtsp://ip-addr/nph-h264.cgi"]}
+{"Brand": ["SparkLAN"], "Model": ["CAS-673"], "RTSP_URL": ["rtsp://ip-addr/mpeg4"]}
+{"Brand": ["SITECOM"], "Model": ["LN-406"], "RTSP_URL": ["rtsp://ip-addr/img/video.sav"]}
+{"Brand": ["Sricctv"], "Model": ["AP001"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sricctv"], "Model": ["AP009"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sricctv"], "Model": ["SP005"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sricctv"], "Model": ["SP006"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sricctv"], "Model": ["SP007"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sricctv"], "Model": ["SP008"], "RTSP_URL": ["rtsp://ip-addr/onvif1"]}
+{"Brand": ["Sricctv"], "Model": ["SP009"], "RTSP_URL": ["rtsp://ip-addr/onvif1"]}
+{"Brand": ["Sricctv"], "Model": ["SP013"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SMAX"], "Model": ["SICPT500W"], "RTSP_URL": ["rtsp://ip-addr/stream1"]}
+{"Brand": ["Siqura"], "Model": ["BC24"], "RTSP_URL": ["rtsp://ip-addr/mpeg4"]}
+{"Brand": ["Siqura"], "Model": ["FD68"], "RTSP_URL": ["rtsp://ip-addr/h264"]}
+{"Brand": ["Siqura"], "Model": ["TKH FD20"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Speco"], "Model": ["SIPMPT5"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SINOCAM"], "Model": ["SN-6408AW"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SINOCAM"], "Model": ["SN-6408BW"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SINOCAM"], "Model": ["SN-IPC-3008TV"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SINOCAM"], "Model": ["SN-IPC-5029 SW-WI-EU"], "RTSP_URL": ["rtsp://ip-addr:554/11"]}
+{"Brand": ["SINOCAM"], "Model": ["SN-IPC-5032"], "RTSP_URL": ["rtsp://ip-addr"]}
+{"Brand": ["SightLogix"], "Model": ["DS130-300"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sharx"], "Model": ["SCNC3707"], "RTSP_URL": ["rtsp://ip-addr/live_mpeg4.sdp"]}
+{"Brand": ["Siera"], "Model": ["IPS 8720HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Seyeon Tech - FlexWATCH"], "Model": ["FW1175-MV"], "RTSP_URL": ["rtsp://ip-addr/cam0_1"]}
+{"Brand": ["Seyeon Tech - FlexWATCH"], "Model": ["FW1176-DS"], "RTSP_URL": ["rtsp://ip-addr/cam0_1"]}
+{"Brand": ["Seyeon Tech - FlexWATCH"], "Model": ["FW1179-MV"], "RTSP_URL": ["rtsp://ip-addr/cam0_1"]}
+{"Brand": ["Siemens"], "Model": ["CCMS1315-LP"], "RTSP_URL": ["rtsp://ip-addr/img/video.asf"]}
+{"Brand": ["Siemens"], "Model": ["CCMW3025"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sony"], "Model": ["SNC-CH110"], "RTSP_URL": ["rtsp://ip-addr/media/video1"]}
+{"Brand": ["Sony"], "Model": ["SNC-CX600W"], "RTSP_URL": ["rtsp://ip-addr/media/video1"]}
+{"Brand": ["Sony"], "Model": ["SNC-DH110"], "RTSP_URL": ["rtsp://ip-addr/media/video1"]}
+{"Brand": ["Sercomm"], "Model": ["iCamera 1000"], "RTSP_URL": ["rtsp://ip-addr/img/media.sav"]}
+{"Brand": ["Sercomm"], "Model": ["iCamera2"], "RTSP_URL": ["rtsp://ip-addr/img/media.sav?channel=1"]}
+{"Brand": ["Sercomm"], "Model": ["Indoor Pan &amp; Tilt"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sony"], "Model": ["SNC-DH120"], "RTSP_URL": ["rtsp://ip-addr/media/video1"]}
+{"Brand": ["Sentry 360"], "Model": ["IS-IP200-IRB"], "RTSP_URL": ["rtsp://ip-addr/h264"]}
+{"Brand": ["Sentry 360"], "Model": ["IS-IP220-IRB-30"], "RTSP_URL": ["rtsp://ip-addr/h264"]}
+{"Brand": ["Sentry 360"], "Model": ["IS-IP500"], "RTSP_URL": ["rtsp://ip-addr/image.mpg"]}
+{"Brand": ["Sony"], "Model": ["SNC-EB520"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sony"], "Model": ["SNC-EB602R"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SecuRex"], "Model": ["SIV-2110-IR"], "RTSP_URL": ["rtsp://ip-addr/0/1:1/main"]}
+{"Brand": ["Sony"], "Model": ["SNC-EM630"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sony"], "Model": ["SNC-EM632R"], "RTSP_URL": ["rtsp://ip-addr/media/video1"]}
+{"Brand": ["Sony"], "Model": ["SNC-ER580"], "RTSP_URL": ["rtsp://ip-addr/media/video1"]}
+{"Brand": ["Sony"], "Model": ["SNC-HM662"], "RTSP_URL": ["rtsp://ip-addr/media/video1"]}
+{"Brand": ["Sarmatt"], "Model": ["SR-ID13F36"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Scallop Imaging"], "Model": ["D14DN"], "RTSP_URL": ["rtsp://ip-addr:8554/main"]}
+{"Brand": ["Scallop Imaging"], "Model": ["D4"], "RTSP_URL": ["rtsp://ip-addr:8554/main"]}
+{"Brand": ["Scallop Imaging"], "Model": ["D7-180"], "RTSP_URL": ["rtsp://ip-addr:8554/main"]}
+{"Brand": ["Scallop Imaging"], "Model": ["D7XR"], "RTSP_URL": ["rtsp://ip-addr:8554/main"]}
+{"Brand": ["Scallop Imaging"], "Model": ["M6-200"], "RTSP_URL": ["rtsp://ip-addr:8554/main"]}
+{"Brand": ["Sony"], "Model": ["SNC-VM600B"], "RTSP_URL": ["rtsp://ip-addr/media/video1"]}
+{"Brand": ["SANYO Security System"], "Model": ["VCC-HD2100"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SANYO Security System"], "Model": ["VCC-HD2300"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SANYO Security System"], "Model": ["VCC-HD2500"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Sony"], "Model": ["SNC-WR632"], "RTSP_URL": ["rtsp://ip-addr/video1"]}
+{"Brand": ["Sony"], "Model": ["SNC-XM631"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SHANY"], "Model": ["SNC-WD2312MDN"], "RTSP_URL": ["rtsp://ip-addr:7554/"]}
+{"Brand": ["SANAN"], "Model": ["SA-1346"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Safer"], "Model": ["SF-SN327R-E1"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Samsung"], "Model": ["SNB-6004"], "RTSP_URL": ["rtsp://ip-addr:554"]}
+{"Brand": ["Samsung"], "Model": ["SNB-6004N"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Samsung"], "Model": ["SNB-7004"], "RTSP_URL": ["rtsp://ip-addr/profile2/media.smp"]}
+{"Brand": ["Samsung"], "Model": ["SND-7084"], "RTSP_URL": ["rtsp://ip-addr/profile2/media.smp"]}
+{"Brand": ["Samsung"], "Model": ["SND-7084R"], "RTSP_URL": ["rtsp://ip-addr/profile2/media.smp"]}
+{"Brand": ["Samsung"], "Model": ["SNH-V6414BN"], "RTSP_URL": ["rtsp://ip-addr/profile5/media.smp"]}
+{"Brand": ["Samsung"], "Model": ["SNO-5080R"], "RTSP_URL": ["rtsp://ip-addr/profile2/media.smp"]}
+{"Brand": ["SafeSky"], "Model": ["SC-IP612"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["SafeSky"], "Model": ["SC-IP613"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["RVi"], "Model": ["RVi-IPC20DN"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["RIVA"], "Model": ["RC6602HD-5311"], "RTSP_URL": ["rtsp://ip-addr/ch0_unicast_firststream"]}
+{"Brand": ["REPOTEC"], "Model": ["RP-VP0961"], "RTSP_URL": ["rtsp://ip-addr/cam1/mpeg4?user='username'&amp;pwd='password'"]}
+{"Brand": ["RATINGSECU"], "Model": ["R-H234N"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Quaddrix"], "Model": ["oQ-960"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Pumatronix"], "Model": ["ITSCAM403LM84"], "RTSP_URL": ["rtsp://ip-addr/api/mjpegvideo.cgi"]}
+{"Brand": ["QIHAN"], "Model": ["QH-NB341-W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["QIHAN"], "Model": ["QH-NM311-WP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["QIHAN"], "Model": ["QH-NV432"], "RTSP_URL": ["rtsp://ip-addr/tcp_live/ch0_0"]}
+{"Brand": ["QIHAN"], "Model": ["QH-NV470SO"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["QIHAN"], "Model": ["QH-NW451"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["QIHAN"], "Model": ["QH-NW451DO-P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["QIHAN"], "Model": ["QH-NW451DS-P"], "RTSP_URL": ["rtsp://ip-addr/live/ch0_0"]}
+{"Brand": ["QIHAN"], "Model": ["QH-NW556DO-P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["PROMELIT"], "Model": ["iMega HC30"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["PROVISION-ISR"], "Model": ["DAI-310IPEH04"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["PROLiNK"], "Model": ["PIC1003WP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Proem"], "Model": ["CDF350x"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["PROBE DIGITAL"], "Model": ["PTI-402P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["QIDUN"], "Model": ["DD-7130-W2G"], "RTSP_URL": ["rtsp://ip-addr/ch0_unicast_firststream"]}
+{"Brand": ["PRIME"], "Model": ["IM-V22"], "RTSP_URL": ["rtsp://ip-addr/cam1/h264/multicast"]}
+{"Brand": ["POSONIC"], "Model": ["HCN-T-RC6910"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Polar Industries"], "Model": ["zPAN100 Digital/IP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Point Grey"], "Model": ["FL3-GE-13S2C-C"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Planex"], "Model": ["CS-W06N"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["PIXORD"], "Model": ["PL721E"], "RTSP_URL": ["rtsp://ip-addr"]}
+{"Brand": ["OpenEye"], "Model": ["CM-610"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["OpenEye"], "Model": ["CM-816"], "RTSP_URL": ["rtsp://ip-addr/h264"]}
+{"Brand": ["Optiview"], "Model": ["HDCC5M"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["PLANET"], "Model": ["ICA-4130S"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["PLANET"], "Model": ["ICA-4200V"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["PLANET"], "Model": ["ICA-530"], "RTSP_URL": ["rtsp://ip-addr/ipcam.sdp"]}
+{"Brand": ["PLANET"], "Model": ["ICA-HM312"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Onix"], "Model": ["IP-827DN/2811"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Oncam"], "Model": ["GE-IPS-001"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Net Generation"], "Model": ["NG-IPCAMEV8580A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Neutron Technology"], "Model": ["IPC-HF3300 P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Panasonic"], "Model": ["BL-C210"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Panasonic"], "Model": ["BL-VT164W"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Panasonic"], "Model": ["WV-NP502"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Panasonic"], "Model": ["WV-NW502S"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Neo Electronic"], "Model": ["NIP-09HR2"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SC385 "], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SC387"], "RTSP_URL": ["rtsp://ip-addr:554"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SC588"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SF332"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Nadatel"], "Model": ["NCAM-6300"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SF438"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SP102"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SP306"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SPN310"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SPN311"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Panasonic"], "Model": ["WV-ST162"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SW155"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["MWR Engineering"], "Model": ["C2190D"], "RTSP_URL": ["rtsp://ip-addr/av0_0"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SW172"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SW397"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Panasonic"], "Model": ["WV-SW458"], "RTSP_URL": ["rtsp://ip-addr/MediaInput/h264"]}
+{"Brand": ["Moxa"], "Model": ["VPort 15"], "RTSP_URL": ["rtsp://ip-addr/udpstream"]}
+{"Brand": ["Moxa"], "Model": ["VPort 25"], "RTSP_URL": ["rtsp://ip-addr/udpstream"]}
+{"Brand": ["Moxa"], "Model": ["VPort 251"], "RTSP_URL": ["rtsp://ip-addr/udpstream"]}
+{"Brand": ["Moxa"], "Model": ["VPort 351"], "RTSP_URL": ["rtsp://ip-addr/udpstream"]}
+{"Brand": ["Movo"], "Model": ["NT4000"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Moxa"], "Model": ["VPort 36"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Multipix Intelligent Systems"], "Model": ["MP-HD730"], "RTSP_URL": ["rtsp://ip-addr/video1"]}
+{"Brand": ["Pelco"], "Model": ["D5230P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Milesight"], "Model": ["MS-C2451-P(MW)"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Moog"], "Model": ["EXSS7C2-3"], "RTSP_URL": ["rtsp://ip-addr/videoinput_1/h264_1/media.stm"]}
+{"Brand": ["MOBOTIX"], "Model": ["D12"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["MOBOTIX"], "Model": ["D22"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["MOBOTIX"], "Model": ["M12"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["MOBOTIX"], "Model": ["MX-Q24M-Sec"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["MicroPower Technologies"], "Model": ["MPT2500"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Micronet"], "Model": ["SP5319"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Micronet"], "Model": ["SP5572HDC"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["MMPC"], "Model": ["CMNC-301D"], "RTSP_URL": ["rtsp://ip-addr/video1"]}
+{"Brand": ["Micronet"], "Model": ["SP5591A"], "RTSP_URL": ["rtsp://ip-addr/stream1"]}
+{"Brand": ["Micro Digital"], "Model": ["MDC-i7090VTD-30"], "RTSP_URL": ["rtsp://ip-addr/cam0_0"]}
+{"Brand": ["Micro Digital"], "Model": ["MDC-i7260F"], "RTSP_URL": ["rtsp://ip-addr/cam0_0"]}
+{"Brand": ["MC Electronics"], "Model": ["MDW-PT1Q30"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Micro Digital"], "Model": ["MDC-i8290V"], "RTSP_URL": ["rtsp://ip-addr/cam0_0"]}
+{"Brand": ["Marmitek"], "Model": ["IPRobocam541"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Luxvision"], "Model": ["LV-IP75-2M"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["March Networks"], "Model": ["MDome HD PTZ"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["March Networks"], "Model": ["MegaPX WDR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Maxvideo"], "Model": ["VM600IR-IP635CR/H"], "RTSP_URL": ["rtsp://ip-addr/0/usrnm:pwd/main"]}
+{"Brand": ["Lumenera"], "Model": ["Le075"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["LS VISION"], "Model": ["LS SD Speed Dome"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["LT Security"], "Model": ["PTZIP211X20"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Lorex"], "Model": ["LNZ4001"], "RTSP_URL": ["rtsp://ip-addr/video.mp4"]}
+{"Brand": ["Pelco"], "Model": ["IX30DN"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Logitech"], "Model": ["Alert 750e"], "RTSP_URL": ["rtsp://ip-addr/HighResolutionVideo"]}
+{"Brand": ["Logitech"], "Model": ["Alert 750i"], "RTSP_URL": ["rtsp://ip-addr/HighResolutionVideo"]}
+{"Brand": ["Linksys"], "Model": ["LCAB03VLNOD"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Linksys"], "Model": ["LCAD03FLN"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Linksys"], "Model": ["LCAD03VLNOD"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Linksys"], "Model": ["LCAM0336OD"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Linksys"], "Model": ["WVC54GC"], "RTSP_URL": ["rtsp://ip-addr/img/video.sav"]}
+{"Brand": ["Linksys"], "Model": ["WVC80N"], "RTSP_URL": ["rtsp://ip-addr/img/video.sav"]}
+{"Brand": ["LG"], "Model": ["LNB3100"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["LG"], "Model": ["LW332"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["LG"], "Model": ["LW335"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Longse"], "Model": ["LBH24"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Longse"], "Model": ["LBH30"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Longse"], "Model": ["LIG40"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Longse"], "Model": ["LVDM45A200"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["LevelOne"], "Model": ["FCS-3081"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["LevelOne"], "Model": ["FCS-4101"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["LevelOne"], "Model": ["WCS-0030"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["LaView"], "Model": ["IPD2120WCO"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["KOMPSOS"], "Model": ["K7030IPW"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["LaView"], "Model": ["LV-PB932F4"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Launch Digital"], "Model": ["LC5201A-C1AMI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["KODO"], "Model": ["PRO KNB-1129T"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Kocom"], "Model": ["KCC-IP230-N"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["LILIN"], "Model": ["IPD-2220ES"], "RTSP_URL": ["rtsp://ip-addr/rtsph2641080p"]}
+{"Brand": ["KT&amp;C"], "Model": ["KNC-HDi47"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["KKMOON"], "Model": ["S600-EU"], "RTSP_URL": ["rtsp://ip-addr:554/1"]}
+{"Brand": ["LILIN"], "Model": ["IPR722-IVS"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["KT&amp;C"], "Model": ["KNC-Xi130HD"], "RTSP_URL": ["rtsp://ip-addr/h264/"]}
+{"Brand": ["King Leader"], "Model": ["KL-IP320-5MP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["LILIN"], "Model": ["LD6122X"], "RTSP_URL": ["rtsp://ip-addr/rtsph2641080p"]}
+{"Brand": ["Kallimage"], "Model": ["IP608IRW"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["KARE"], "Model": ["N3503HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["LILIN"], "Model": ["LR7022"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ITX SECURITY"], "Model": ["NCDi-1300P"], "RTSP_URL": ["rtsp://ip-addr/live/main"]}
+{"Brand": ["ITX SECURITY"], "Model": ["NCDi-2000P"], "RTSP_URL": ["rtsp://ip-addr/live/main"]}
+{"Brand": ["ITX SECURITY"], "Model": ["NCX-1300P"], "RTSP_URL": ["rtsp://ip-addr/live/main"]}
+{"Brand": ["ITX SECURITY"], "Model": ["NCX-2000P"], "RTSP_URL": ["rtsp://ip-addr/live/main"]}
+{"Brand": ["Johnson Controls"], "Model": ["JCVS-IPB12051F"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ITX SECURITY"], "Model": ["NMD-2003P"], "RTSP_URL": ["rtsp://ip-addr/live/main"]}
+{"Brand": ["ITX SECURITY"], "Model": ["NMDi-2003PR"], "RTSP_URL": ["rtsp://ip-addr/live/main"]}
+{"Brand": ["iSmart"], "Model": ["DOME720PIP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Jovision"], "Model": ["JVS-H411"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Jovision"], "Model": ["JVS-N3DL-HB"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IQinVision"], "Model": ["IQA12S"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IRLAB"], "Model": ["CIR-MBA27NAC"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IQinVision"], "Model": ["IQM30N"], "RTSP_URL": ["rtsp://ip-addr/now.mp4"]}
+{"Brand": ["IRLAB"], "Model": ["CIR-UM36FBC"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IPX"], "Model": ["DDK-1800BC"], "RTSP_URL": ["rtsp://ip-addr/live1.sdp"]}
+{"Brand": ["iPUX"], "Model": ["ICS8200"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IPCC"], "Model": ["IPCC-B12"], "RTSP_URL": ["rtsp://ip-addr:554/11"]}
+{"Brand": ["IPCC"], "Model": ["IPCC-B12N"], "RTSP_URL": ["rtsp://ip-addr:554/11"]}
+{"Brand": ["IPCC"], "Model": ["IPCC-B12NW"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IPCC"], "Model": ["IPCC-B14"], "RTSP_URL": ["rtsp://ip-addr:554/11"]}
+{"Brand": ["IPCC"], "Model": ["IPCC-B15NW"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IPCC"], "Model": ["IPCC-B23"], "RTSP_URL": ["rtsp://ip-addr:554/11"]}
+{"Brand": ["IONODES"], "Model": ["ION-E100-HD"], "RTSP_URL": ["rtsp://ip-addr/videoinput_1/h264_1/media.stm"]}
+{"Brand": ["IPCC"], "Model": ["IPCC-D12"], "RTSP_URL": ["rtsp://ip-addr:554/11"]}
+{"Brand": ["Intellio"], "Model": ["ILN-120SD 26x"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Intellinet"], "Model": ["550178"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Instek Digital"], "Model": ["MC-CX2230"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Insteon"], "Model": ["WiFi Camera"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Innovative Security Designs"], "Model": ["JBS-CS-1080P"], "RTSP_URL": ["rtsp://ip-addr/stream1"]}
+{"Brand": ["Intelbras"], "Model": ["VIP S-4120"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Intelbras"], "Model": ["VIP S3020"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Ingrasys"], "Model": ["B1100E"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Interlogix"], "Model": ["TruVision 360\u00b0"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Interlogix"], "Model": ["TVB-1101"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Interlogix"], "Model": ["TVB-1102"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IndigoVision"], "Model": ["9000 PTZ"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IndigoVision"], "Model": ["BX400 HD Minidome"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Infinova"], "Model": ["V1100"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Infinova"], "Model": ["V1100L"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["iLink"], "Model": ["IMPIRVFVD-3S"], "RTSP_URL": ["rtsp://ip-addr/video0.sdp"]}
+{"Brand": ["Impath Networks"], "Model": ["CM-DH7153MF/N"], "RTSP_URL": ["rtsp://ip-addr/cam/realmonitor?channel=1&amp;subtype=0"]}
+{"Brand": ["Ikegami"], "Model": ["IPD-BX110"], "RTSP_URL": ["rtsp://ip-addr/stream1"]}
+{"Brand": ["Inaxsys"], "Model": ["IN-D04MF"], "RTSP_URL": ["rtsp://ip-addr:7070"]}
+{"Brand": ["IDS"], "Model": ["5481VSE"], "RTSP_URL": ["rtsp://ip-addr/h264"]}
+{"Brand": ["iCanTek"], "Model": ["iCanView394MP - Verisure Securitas Cam Spain edition"], "RTSP_URL": ["rtsp://ip-addr/StdCh1"]}
+{"Brand": ["iCanTek"], "Model": ["iCanView290PT"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IC Realtime"], "Model": ["ICIP-B1300VIR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["I-Vision"], "Model": ["NT1621F"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["HUVIRON"], "Model": ["SK-N190"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["HUVIRON"], "Model": ["SK-ND821"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["HUNT"], "Model": ["HLC-73BM"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["HUNT"], "Model": ["HLC-7AED"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["HUNT"], "Model": ["HLC-85EM"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Huawei"], "Model": ["IPC1201-VR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["HooToo"], "Model": ["HT-IP006N"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Huawei"], "Model": ["IPC2203-VR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Huawei"], "Model": ["IPC6112"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Huawei"], "Model": ["IPC6121-I"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hitron"], "Model": ["HEBT320"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Histream"], "Model": ["HH9803L-IR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IDIS"], "Model": ["DC-B1000"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IDIS"], "Model": ["DC-B1203X"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["HDL"], "Model": ["HMEG-70W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["HDPRO"], "Model": ["HD-IC608HFL211P"], "RTSP_URL": ["rtsp://ip-addr/trackID=1"]}
+{"Brand": ["Hi-Version"], "Model": ["HJ-IPCR1T2A5"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["IDIS"], "Model": ["NC-EP210-IP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["GSG INTERNATIONAL"], "Model": ["KLIS IPCAM-IR1"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Honeywell"], "Model": ["H2D2PR1V"], "RTSP_URL": ["rtsp://ip-addr"]}
+{"Brand": ["GRUNDIG"], "Model": ["G-BCAM-01"], "RTSP_URL": ["rtsp://ip-addr/stream1"]}
+{"Brand": ["Honeywell"], "Model": ["H3D1F"], "RTSP_URL": ["rtsp://ip-addr/h264"]}
+{"Brand": ["Grandstream"], "Model": ["GXV3610"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Guowei Security"], "Model": ["KDT-HW67AC72-P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Golbong"], "Model": ["NAP22"], "RTSP_URL": ["rtsp://ip-addr/user=admin&amp;password=&amp;channel=1&amp;stream=0.sdp?real_stream"]}
+{"Brand": ["GKB"], "Model": ["D8722"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Grandstream"], "Model": ["GXV3672"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Guowei Security"], "Model": ["KDT-HW76RC83-P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Grandstream"], "Model": ["GXV3674"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["GEUTEBRUECK"], "Model": ["EFD-3255"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Honeywell"], "Model": ["HBD2FR"], "RTSP_URL": ["rtsp://ip-addr/h264"]}
+{"Brand": ["Honeywell"], "Model": ["HBD2FR2"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Honeywell"], "Model": ["HD45IP"], "RTSP_URL": ["rtsp://ip-addr/h264"]}
+{"Brand": ["Genius"], "Model": ["IPCam 350TR"], "RTSP_URL": ["rtsp://ip-addr/avn=2"]}
+{"Brand": ["General Vision"], "Model": ["IPC100C002"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Honeywell"], "Model": ["HICC-2600T"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Honeywell"], "Model": ["HICC-2600TVI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Genie"], "Model": ["NVD2910"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Honeywell"], "Model": ["HIDC-2600TVI"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2012-I"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2332-I"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2020-I"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2032-I"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2112-I"], "RTSP_URL": ["rtsp://ip-addr:5541/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2120F-I(W)(S)"], "RTSP_URL": ["rtsp://ip-addr/rtsp"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2122FWD-I(W)(S)"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2132-I"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Gadinan H264"], "Model": ["Gadinan Onvif WIFI IP Camera"], "RTSP_URL": ["rtsp://ip-addr:554/user=admin_password=?????_channel=1_stream=0.sdp?real_stream"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2312-I"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Ganz Security"], "Model": ["ZN-DT2MA"], "RTSP_URL": ["rtsp://ip-addr/gnz_media/main"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2412F-I(W)"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2532F-I(S)"], "RTSP_URL": ["rtsp://ip-addr/rtsph2641080p"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2542FWD-I(W)(S)"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Ganz Security"], "Model": ["ZN1-M4FN3"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2712F-I(S)"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["GeoVision"], "Model": ["GV-BL1200"], "RTSP_URL": ["rtsp://ip-addr:8554/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2732F-I(S)"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Ganz Security"], "Model": ["ZV-S306"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["GeoVision"], "Model": ["GV-BL2400"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["FORESIGHT"], "Model": ["FS-IPDHOS26XN"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD2F42FWD-I(W)(S)"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Foscam"], "Model": ["FI8904W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Foscam"], "Model": ["FI9803EP"], "RTSP_URL": ["rtsp://ip-addr"]}
+{"Brand": ["FLIR Systems"], "Model": ["AX8"], "RTSP_URL": ["rtsp://ip-addr/avc"]}
+{"Brand": ["FiscalTech"], "Model": ["G25V2IP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["GeoVision"], "Model": ["GV-BX1500"], "RTSP_URL": ["rtsp://ip-addr:8554/CH001.sdp"]}
+{"Brand": ["GeoVision"], "Model": ["GV-BX2400"], "RTSP_URL": ["rtsp://ip-addr/CH001.sdp"]}
+{"Brand": ["Foscam"], "Model": ["FI8608W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["FSAN"], "Model": ["WD662"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Foscam"], "Model": ["FI8905W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Foscam"], "Model": ["FI8906W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Foscam"], "Model": ["FI8918W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Foscam"], "Model": ["FI9803P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["FINEST SECURITY"], "Model": ["ACM-B3000"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Foscam"], "Model": ["FI9805E"], "RTSP_URL": ["rtsp://ip-addr:88/videoMain"]}
+{"Brand": ["FINEST SECURITY"], "Model": ["EP-Q2036HW-IP-AT"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["FINEST SECURITY"], "Model": ["TCP-HP720"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD4025FWD-(A)(P)"], "RTSP_URL": ["rtsp://ip-addr"]}
+{"Brand": ["Foscam"], "Model": ["FI9821P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Foscam"], "Model": ["FI9826P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD4032FWD-P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD4065F"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Foscam"], "Model": ["Foscam FI8910W Pan &amp; Tilt IP/Network Camera"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD4124F-I(Z)"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Eyeview"], "Model": ["IPS-330POD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["EverFocus"], "Model": ["EAN800A"], "RTSP_URL": ["rtsp://ip-addr/streaming/channels/1"]}
+{"Brand": ["EverFocus"], "Model": ["EAN850A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["EverFocus"], "Model": ["EAN900"], "RTSP_URL": ["rtsp://ip-addr/streaming/channels/0"]}
+{"Brand": ["Ever World View"], "Model": ["EN-9802B"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["EverFocus"], "Model": ["EDN1320"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Epiphan"], "Model": ["VGA/DVI Broadcaster"], "RTSP_URL": ["rtsp://ip-addr:554/stream.sdp"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD4212FWD-IZS"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["GeoVision"], "Model": ["GV-FE3402"], "RTSP_URL": ["rtsp://ip-addr:8554/"]}
+{"Brand": ["EverFocus"], "Model": ["EDN3260"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ESCAM"], "Model": ["Brick QD300"], "RTSP_URL": ["rtsp://ip-addr/user=admin&amp;password=&amp;channel=1&amp;stream=0.sdp?"]}
+{"Brand": ["ESCAM"], "Model": ["ET QD530"], "RTSP_URL": ["rtsp://ip-addr/user=admin&amp;password=&amp;channel=1&amp;stream=0.sdp?"]}
+{"Brand": ["ESCAM"], "Model": ["Fighter QD320"], "RTSP_URL": ["rtsp://ip-addr/user=admin&amp;password=&amp;channel=1&amp;stream=0.sdp?"]}
+{"Brand": ["ESCAM"], "Model": ["Goblet QD310"], "RTSP_URL": ["rtsp://ip-addr/user=admin&amp;password=&amp;channel=1&amp;stream=0.sdp?"]}
+{"Brand": ["ESCAM"], "Model": ["OWL QD100"], "RTSP_URL": ["rtsp://ip-addr/user=admin&amp;password=&amp;channel=1&amp;stream=0.sdp?"]}
+{"Brand": ["ESCAM"], "Model": ["Peashooter QD520"], "RTSP_URL": ["rtsp://ip-addr/user=admin&amp;password=&amp;channel=1&amp;stream=0.sdp?"]}
+{"Brand": ["ESCAM"], "Model": ["Q1039"], "RTSP_URL": ["rtsp://ip-addr"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD4332FWD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ESCAM"], "Model": ["Snail QD500"], "RTSP_URL": ["rtsp://ip-addr/user=admin&amp;password=&amp;channel=1&amp;stream=0.sdp?"]}
+{"Brand": ["ESCAM"], "Model": ["Warrior QD330"], "RTSP_URL": ["rtsp://ip-addr/user=admin&amp;password=&amp;channel=1&amp;stream=0.sdp?"]}
+{"Brand": ["ESCAM"], "Model": ["ESCAM Speed QD800WIFI"], "RTSP_URL": ["rtsp://ip-addr:password@ipcamera-address:554/rtspoh/12"]}
+{"Brand": ["FLIR Systems"], "Model": ["PTZ-35x140MS"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Enxun"], "Model": ["MIP-813W"], "RTSP_URL": ["rtsp://ip-addr:554"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD4865F-IZ"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["EverFocus"], "Model": ["EPN3600"], "RTSP_URL": ["rtsp://ip-addr/streaming/channels/1"]}
+{"Brand": ["Encore Electronics"], "Model": ["ENVCWI-G"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["EverFocus"], "Model": ["EQ610"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["GeoVision"], "Model": ["GV-MDR3400"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD7153-E"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["eneo"], "Model": ["NXB-980IR37M"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["EDIMAX"], "Model": ["IC-3116W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["EDIMAX"], "Model": ["IC-7001W"], "RTSP_URL": ["rtsp://ip-addr/ipcam_mjpeg.sdp"]}
+{"Brand": ["EDIMAX"], "Model": ["IC-9000"], "RTSP_URL": ["rtsp://ip-addr/ipcam.sdp"]}
+{"Brand": ["EDIMAX"], "Model": ["NC-213E"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["EasyN"], "Model": ["FS-603A"], "RTSP_URL": ["rtsp://ip-addr/11"]}
+{"Brand": ["eneo"], "Model": ["PXB-2080Z03 B"], "RTSP_URL": ["rtsp://ip-addr/cam1_1"]}
+{"Brand": ["EGLCCTV"], "Model": ["EEN-SESG33WV"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["DVTEL "], "Model": ["camwdc100dn"], "RTSP_URL": ["rtsp://ip-addr/ioImage/1"]}
+{"Brand": ["Dotix"], "Model": ["IB2-M136/N"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD853F-E"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Digital Watchdog"], "Model": ["DWC-iC237"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dotix"], "Model": ["SD6630 HN/N"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["DIGITUS"], "Model": ["DN-16053-1"], "RTSP_URL": ["rtsp://ip-addr:6000/"]}
+{"Brand": ["Digital ID View"], "Model": ["IV-LC-74xx"], "RTSP_URL": ["rtsp://ip-addr/live1.sdp"]}
+{"Brand": ["DynaColor"], "Model": ["820Z2-F3"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD883F"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2CD892PF"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["DBPOWER"], "Model": ["VA038K"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dallmeier"], "Model": ["DF4510HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dallmeier"], "Model": ["DF4900HD-DN"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2DE5186-A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["DynaColor"], "Model": ["NV323"], "RTSP_URL": ["rtsp://ip-addr/125"]}
+{"Brand": ["D-MAX"], "Model": ["DMC-20FW"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["D-MAX"], "Model": ["DNC-500FW"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2DF1573A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["CYNIX"], "Model": ["MAO-N12T"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2DF5286-AEL"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["DynaColor"], "Model": ["W3S1-J"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["CWBcam"], "Model": ["YUC-HI96R"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-2DF7296"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["DS-6716HWI"], "RTSP_URL": ["rtsp://ip-addr/h.264/ch1/main/av_stream"]}
+{"Brand": ["Hikvision"], "Model": ["DS-7716NI-E4"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Hikvision"], "Model": ["IPCC-7210W PTZ"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Cotier"], "Model": ["TV-657W/IP"], "RTSP_URL": ["rtsp://ip-addr:554/ch01.264?ptype=tcp"]}
+{"Brand": ["CP PLUS"], "Model": ["CP-UNC-DA13L3-0360"], "RTSP_URL": ["rtsp://ip-addr"]}
+{"Brand": ["CP PLUS"], "Model": ["CP-UNC-TA30L3S-0360"], "RTSP_URL": ["rtsp://ip-addr:554"]}
+{"Brand": ["CP PLUS"], "Model": ["CP-UNP-3020FL15"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["COMTEX"], "Model": ["CFI 2882 FV"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["D-Link"], "Model": ["DCS-5222L"], "RTSP_URL": ["rtsp://ip-addr/live1.sdp"]}
+{"Brand": ["Compro"], "Model": ["NC4230"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["D-Link"], "Model": ["DCS-2120"], "RTSP_URL": ["rtsp://ip-addr/live.sdp"]}
+{"Brand": ["D-Link"], "Model": ["DCS-2121"], "RTSP_URL": ["rtsp://ip-addr/play1.sdp"]}
+{"Brand": ["D-Link"], "Model": ["DCS-2130"], "RTSP_URL": ["rtsp://ip-addr/play1.sdp"]}
+{"Brand": ["D-Link"], "Model": ["DCS-2132L"], "RTSP_URL": ["rtsp://ip-addr/live3.sdp\t"]}
+{"Brand": ["D-Link"], "Model": ["DCS-2132LB"], "RTSP_URL": ["rtsp://ip-addr/live1.sdp"]}
+{"Brand": ["D-Link"], "Model": ["DCS-2330L"], "RTSP_URL": ["rtsp://ip-addr/live3.sdp"]}
+{"Brand": ["D-Link"], "Model": ["DCS-2630L"], "RTSP_URL": ["rtsp://ip-addr:554"]}
+{"Brand": ["D-Link"], "Model": ["DCS-3010"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["CohuHD"], "Model": ["7521"], "RTSP_URL": ["rtsp://ip-addr/stream1"]}
+{"Brand": ["Citrox"], "Model": ["CX-2000"], "RTSP_URL": ["rtsp://ip-addr/v1"]}
+{"Brand": ["CNB"], "Model": ["IDC4050VR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["D-Link"], "Model": ["DCS-5222LB"], "RTSP_URL": ["rtsp://ip-addr/live1.sdp"]}
+{"Brand": ["D-Link"], "Model": ["DCS-5300"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["CNB"], "Model": ["IGC2050F"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Certis"], "Model": ["NDV-4100HD IP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["CNB"], "Model": ["IGP2035F"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Cellinx Systems"], "Model": ["CamPilot STH780"], "RTSP_URL": ["rtsp://ip-addr/AVStream1_1"]}
+{"Brand": ["CNB"], "Model": ["LKC1050IR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Cisco"], "Model": ["7030E"], "RTSP_URL": ["rtsp://ip-addr/StreamingSetting?version=1.0&amp;action=getRTSPStream&amp;ChannelID=1&amp;ChannelName=Channel1"]}
+{"Brand": ["Cisco"], "Model": ["PVC2300"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Cisco"], "Model": ["WVC2300"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Cantonk"], "Model": ["KIP-NK40"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Canon"], "Model": ["VB-C500D"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Canon"], "Model": ["VB-H43"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["D-Link"], "Model": ["DCS-910"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["D-Link"], "Model": ["DCS-930L"], "RTSP_URL": ["rtsp://ip-addr/live1.sdp"]}
+{"Brand": ["D-Link"], "Model": ["DCS-932L"], "RTSP_URL": ["rtsp://ip-addr/HighResolutionvideo"]}
+{"Brand": ["Bycon"], "Model": ["BIP 10CUBE W2A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["D-Link"], "Model": ["DCS-935L"], "RTSP_URL": ["rtsp://ip-addr:554/play1.sdp"]}
+{"Brand": ["Canon"], "Model": ["VB-S800D"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["CamTron"], "Model": ["CTNC-6371"], "RTSP_URL": ["rtsp://ip-addr/video1"]}
+{"Brand": ["BORSCHE"], "Model": ["MIP3025"], "RTSP_URL": ["rtsp://ip-addr/ch0_0.h264"]}
+{"Brand": ["Blanc Security"], "Model": ["MB1810-P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["BEWARD"], "Model": ["BD4330"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Bolide"], "Model": ["BN5035M5"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["BOSCH"], "Model": ["AUTODOME JUNIOR FIXED 800 HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["BOSCH"], "Model": ["DINION capture 5000"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HF5200"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["BOSCH"], "Model": ["DINION IP 4000 HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-AW12W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-C15"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-C35"], "RTSP_URL": ["rtsp://ip-addr/cam/realmonitor?channel=1&amp;subtype=0"]}
+{"Brand": ["Bikal"], "Model": ["BCMP5"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-F728WP"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["CB-100Ae"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["CB-100Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["CB-102Ae V2"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["CB-200Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["CB-302Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Aztech"], "Model": ["WIPC408HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Basler"], "Model": ["BIP-1000c"], "RTSP_URL": ["rtsp://ip-addr/mpeg4"]}
+{"Brand": ["Basler"], "Model": ["BIP-1600c"], "RTSP_URL": ["rtsp://ip-addr/mpeg4"]}
+{"Brand": ["Basler"], "Model": ["BIP2-1000c-dn"], "RTSP_URL": ["rtsp://ip-addr/mpeg4"]}
+{"Brand": ["Brickcom"], "Model": ["CB-502Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FB-100Ae"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HD2100"], "RTSP_URL": ["rtsp://ip-addr/cam/realmonitor?channel=0&amp;subtype=0"]}
+{"Brand": ["Brickcom"], "Model": ["FB-200Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FB-200Np V4"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FB-300Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HDB3110"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HDB3200"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["FB-300Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FB-400Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FB-500Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FD-101Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FD-132Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FD-201Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FD-300Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FD-301Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FD-302Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FD-500Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["FD-501Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["BOSCH"], "Model": ["MIC IP starlight 7000 HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["FD-502Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["GOB-132Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["GOB-200Ap V5"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["GOB-200Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["GOB-300Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["GOB-300Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["AXVIEW"], "Model": ["AX-6320C"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["GOB-302Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["GOB-302Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["GOB-500Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["GOB-500Ap V5"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["GOB-502Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["MB-300Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Aviosys"], "Model": ["9070CSW"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["BOSCH"], "Model": ["NDC-455P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["MB-500Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["MD-100Ae"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["MD-300Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["AVUE"], "Model": ["AVD552MIP"], "RTSP_URL": ["rtsp://ip-addr/live1.sdp"]}
+{"Brand": ["BOSCH"], "Model": ["NDN-498"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["MD-300Ap-360"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["MD-300Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Avigilon"], "Model": ["1 MP H.264 HD Camera"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["MD-300Np-360"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["MD-300Np-360P"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["MD-500Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HDBW2320R-ZS/VFS"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["MD-500Ap-360"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-130Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["AVS Uriel"], "Model": ["MPix13316WIR"], "RTSP_URL": ["rtsp://ip-addr/mpeg4"]}
+{"Brand": ["Brickcom"], "Model": ["OB-132Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-200Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HDBW3300"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["OB-200Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Avigilon"], "Model": ["2 MP H.264 HD Camera"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["BOSCH"], "Model": ["NWC\u20110455"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["OB-200Nf"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-200Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["BOSCH"], "Model": ["TINYON IP 2000"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["OB-202Ae"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-202Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-202Ne"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Avigilon"], "Model": ["2.0MP-HD-H264-B1"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["OB-202Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-300Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-300Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-300Nf"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Axis"], "Model": ["211"], "RTSP_URL": ["rtsp://ip-addr/mpeg4/media.amp"]}
+{"Brand": ["Axis"], "Model": ["212 PTZ-V"], "RTSP_URL": ["rtsp://ip-addr/mpeg4/media.amp"]}
+{"Brand": ["Avacomtech Inc."], "Model": ["H6020W"], "RTSP_URL": ["rtsp://ip-addr/user=admin_password=R5XFY888_channel=1_stream=0.sdp?real_stream"]}
+{"Brand": ["Brickcom"], "Model": ["OB-300Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Avigilon"], "Model": ["5 MP HD Bullet Camera"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["AVTECH"], "Model": ["AVM301"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["214 PTZ"], "RTSP_URL": ["rtsp://ip-addr/mpeg4/media.amp"]}
+{"Brand": ["AVer"], "Model": ["FB2027-1"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["OB-302Ae"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-302Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-302Ne"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["AVTECH"], "Model": ["AVM302A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["M1004-W"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M1013"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M1014"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Aventura Technologies"], "Model": ["CAM-5Z-27X-IP-DN"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["OB-302Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-400Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-500Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-500Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-502Ae"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Amcrest"], "Model": ["IP2M-841W"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["OB-502Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-E200Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OB-E200Nf"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["OSD-200Ap"], "RTSP_URL": ["rtsp://ip-addr/h264"]}
+{"Brand": ["AVTECH"], "Model": ["AVM357A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["M1033-W"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M1034-W"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M1054"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M1103"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Brickcom"], "Model": ["VD-101Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-130Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-130Nf"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-132Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Axis"], "Model": ["M1104"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M1113"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M1113-E"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M1114"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M1114-E"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Brickcom"], "Model": ["VD-200Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-200Nf"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-201Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-300Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["AVer"], "Model": ["FB3027"], "RTSP_URL": ["rtsp://ip-addr/live_st1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-300Af-360"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Axis"], "Model": ["M1143-L"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M1144-L"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Alpha-Digi"], "Model": ["ADIP-565"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ALIVE"], "Model": ["AL-CPIP520IR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["VD-300Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-300Nf"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-300Nf-360"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-300Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Axis"], "Model": ["M2014-E"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Brickcom"], "Model": ["VD-301Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-302Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-302Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-500Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Axis"], "Model": ["M3004-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3005-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3006-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3007-P"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Alcon"], "Model": ["AL-3100N-MPC"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HDW1200S"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["VD-500Af-360"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-500Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-501Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["AVTECH"], "Model": ["AVM428D"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["M3007-PV"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3014"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3024-LVE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["AirLive"], "Model": ["BU-3026"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["AirLive"], "Model": ["CU-720IR"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["AirLive"], "Model": ["FE-200DM"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HDW2100"], "RTSP_URL": ["rtsp://ip-addr:8091/"]}
+{"Brand": ["Brickcom"], "Model": ["VD-502Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-E200Af"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["VD-E200Nf"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["AVTECH"], "Model": ["AVM457A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["M3025-VE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3026-VE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["AirLive"], "Model": ["FE-201DM"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["AirLive"], "Model": ["FE-501DM"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["AirLive"], "Model": ["OD-2025HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["AirLive"], "Model": ["OD-325HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["AirLive"], "Model": ["WN-2600HD"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["WCB-302Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["WCB-502Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["AVTECH"], "Model": ["AVM500"], "RTSP_URL": ["rtsp://ip-addr:5905/"]}
+{"Brand": ["Axis"], "Model": ["M3027-PVE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3113-R"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3113-VE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HDW4100S"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HDW4200C"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["WFB-130Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["WFB-300Np V5"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["WMB-300Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Axis"], "Model": ["M3114-R"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3114-VE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3203 "], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Brickcom"], "Model": ["WMB-500Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["WOB-132Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Axis"], "Model": ["M3203-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M3204"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HDW4300S"], "RTSP_URL": ["rtsp://ip-addr:554/live"]}
+{"Brand": ["Brickcom"], "Model": ["WOB-200Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["WOB-200Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["WOB-300Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Axis"], "Model": ["M3204-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["AEON"], "Model": ["D0100"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HF2100"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Brickcom"], "Model": ["WOB-300Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Axis"], "Model": ["M5013-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M5014"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M5014-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["M7014"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp?camera=1"]}
+{"Brand": ["Brickcom"], "Model": ["WOB-302Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["WOB-302Np"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["WOB-500Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Brickcom"], "Model": ["WOB-502Ap"], "RTSP_URL": ["rtsp://ip-addr/channel1"]}
+{"Brand": ["Axis"], "Model": ["P1214"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["AVer"], "Model": ["SF2121H-R"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Aevision"], "Model": ["AE-1A21"], "RTSP_URL": ["rtsp://ip-addr/live"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HF3211"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HF3500"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["P1214-E"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P1353"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P1353-E"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P1354"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P1354-E"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P1355"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["AVTECH"], "Model": ["AVM565A"], "RTSP_URL": ["rtsp://ip-addr:88/"]}
+{"Brand": ["Axis"], "Model": ["P1355-E"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P1357"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P1357-E"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Acumen"], "Model": ["AiP-B53N-05Y2B"], "RTSP_URL": ["rtsp://ip-addr/mpg4/rtsp.amp"]}
+{"Brand": ["Acumen"], "Model": ["AiP-L24N-67Y2B"], "RTSP_URL": ["rtsp://ip-addr/mpg4/rtsp.amp"]}
+{"Brand": ["ACESEE"], "Model": ["ADSR30"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HFW1200S"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HFW1220S"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Acumen"], "Model": ["AiP-M53"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HFW2100p-0600b"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Acumen"], "Model": ["AiP-R53K-05Y1B"], "RTSP_URL": ["rtsp://ip-addr/mpg4/rtsp.amp"]}
+{"Brand": ["AVTECH"], "Model": ["AVN363V"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["P3225-LV"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["P3301"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HFW2201R-VFS"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["P3301-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3304"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3304-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Absolutron"], "Model": ["A140h"], "RTSP_URL": ["rtsp://ip-addr/image.mpg"]}
+{"Brand": ["Axis"], "Model": ["P3346"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3346-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3346-VE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3353"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["ABS Computer"], "Model": ["MegaCam 311M"], "RTSP_URL": ["rtsp://ip-addr/mpeg4/1/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3354"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3363-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3363-VE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HFW3110"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["P3364-LV"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3364-LVE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3364-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3364-VE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HFW3300"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HFW3300C"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HFW3301C"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["P3367-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3367-VE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["4NSYS"], "Model": ["FNB-102N/P"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["P3384-V"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P3384-VE"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["Axis"], "Model": ["P5415-E"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["3xLogic"], "Model": ["VX-2M-B-RIA"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Axis"], "Model": ["P5512-E"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["3eyes3"], "Model": ["E62A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["A-MTK"], "Model": ["AH2003D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2006P"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HFW4300S"], "RTSP_URL": ["rtsp://ip-addr/live"]}
+{"Brand": ["Axis"], "Model": ["P5534"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["A-MTK"], "Model": ["AH2030T"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2033D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2111D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2112D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2117D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2118D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["3S Vision"], "Model": ["N4012"], "RTSP_URL": ["rtsp://ip-addr/cam1/h264"]}
+{"Brand": ["Axis"], "Model": ["Q1602"], "RTSP_URL": ["rtsp://ip-addr/axis-media/media.amp"]}
+{"Brand": ["A-MTK"], "Model": ["AH2132M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2135M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["3S Vision"], "Model": ["N5012"], "RTSP_URL": ["rtsp://ip-addr/cam1/h264"]}
+{"Brand": ["3S Vision"], "Model": ["N5013"], "RTSP_URL": ["rtsp://ip-addr/666"]}
+{"Brand": ["A-MTK"], "Model": ["AH2137M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2138M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH21K1D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH21K1M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH21K2D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH21K2M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH21K7D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["3S Vision"], "Model": ["N8072"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["3S Vision"], "Model": ["N9018"], "RTSP_URL": ["rtsp://ip-addr/cam1/h264"]}
+{"Brand": ["A-MTK"], "Model": ["AH21K7M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH21K8D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH21K8M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH21L8M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2530T"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2560T"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2563D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2573D-AA"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2573D-LA"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["Dahua"], "Model": ["IPC-HFW5300C"], "RTSP_URL": ["rtsp://ip-addr:554/cam/realmonitor?channel=1&amp;subtype=1&amp;unicast=true&amp;proto=Onvif"]}
+{"Brand": ["A-MTK"], "Model": ["AH2573P"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1 "]}
+{"Brand": ["A-MTK"], "Model": ["AH2603D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2630P"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2630T"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2653D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2706P"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2706T"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AH2816T"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AM2221D"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["A-MTK"], "Model": ["AM2240D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AN2006D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AN2006D-Z4"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AN2553D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AN2573D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AN2606D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AN2616D-AD"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AN2616D-AE"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AN2633D-AE"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AN2706D-V5"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AN2706D-Z4"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AV2023D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AV2023M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["A-MTK"], "Model": ["AV2723D"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["Dahua"], "Model": ["IPC-KW12(W)"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["A-MTK"], "Model": ["AV2723M"], "RTSP_URL": ["rtsp://ip-addr/media.amp?streamprofile=Profile1"]}
+{"Brand": ["Dahua"], "Model": ["PTZ12230-IRB-N"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["SD-6582A-HN"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["SD-6582AN-HN"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["Dahua"], "Model": ["SD42212S-HN"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ACTi"], "Model": ["A21"], "RTSP_URL": ["rtsp://ip-addr"]}
+{"Brand": ["ACTi"], "Model": ["ACM-3411"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ACTi"], "Model": ["ACM-7411"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ACTi"], "Model": ["B41"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ACTi"], "Model": ["B47"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ACTi"], "Model": ["B64"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ACTi"], "Model": ["D32"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ACTi"], "Model": ["E13A"], "RTSP_URL": ["rtsp://ip-addr:7070/"]}
+{"Brand": ["ACTi"], "Model": ["E32A"], "RTSP_URL": ["rtsp://ip-addr"]}
+{"Brand": ["ACTi"], "Model": ["E34A"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ACTi"], "Model": ["E41"], "RTSP_URL": ["rtsp://ip-addr/"]}
+{"Brand": ["ACTi"], "Model": ["Q113"], "RTSP_URL": ["rtsp://ip-addr:7070/"]}
+{"Brand": ["ACTi"], "Model": ["TCM-4511"], "RTSP_URL": ["rtsp://ip-addr/"]}
